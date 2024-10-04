@@ -26,6 +26,12 @@ a_float = -.58
 print(an_integer)
 print(a_float)
 
+# type casting
+print("*" * 10)
+print(str(an_integer))
+print(float(an_integer))
+print(int(a_float))
+
 # other types
 # Dictionary
 # List
